@@ -13,5 +13,7 @@ public class TableOfNo {
             System.out.println(num + " x " + i + " = " + (num*i));
         }
 
+        scanner.close();
+
     }
 }
